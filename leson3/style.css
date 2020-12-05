@@ -1,0 +1,46 @@
+body{
+	width: 1000px;
+	margin: 0px auto;
+	padding: 0px;
+	background-color: #FFFFCC;
+
+
+}
+
+.text{
+	text-decoration: underline;
+	text-align: center;
+	padding-left: 25%;
+
+
+}
+.table .text2{
+	padding-left: 120px;
+	border: solid black 2px;
+	width: 162px;
+	background-color: rgb(255,185,115);
+	font-family: Arial;
+	font-size: 1em;
+	margin-bottom: 7px;
+
+
+
+}
+
+.table th,td {
+	border: thin solid black;
+	background-color: #FFFFDD;
+	table-layout: fixed;
+	text-align: center;
+
+}
+
+.week{
+	text-align: center;
+	padding-left:25%;
+
+
+}
+
+
+

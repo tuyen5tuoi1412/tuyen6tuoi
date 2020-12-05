@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"j",
+				"Jaguar"
+			],
+			[
+				"s",
+				"Shelby1"
+			],
+			[
+				"Ca",
+				"Cars"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"C",
+				"Chevrolet"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ri",
+				"padding-right\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wih",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"mi",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/std/Documents/lee.css",
+		"/D/HTML5/leson/lesson2/free.html",
+		"/D/HTML5/lesson2/GalleryTwo.html",
+		"/D/HTML5/lesson2/GalleryOne.html",
+		"/D/HTML5/leson/lesson2/admission.html",
+		"/D/HTML5/leson/lesson2/home.html",
+		"/D/HTML5/leson/lesson2/VicentStateSchool.html",
+		"/D/HTML5/index.php",
+		"/C/Users/std/Documents/sdf2.html",
+		"/D/HTML5/leson/lesson2/styllist.css",
+		"/D/HTML5/leson/lesson2/luyentap.html",
+		"/D/leetuyen/GalleryTwo.html",
+		"/D/leetuyen/tuyen.html",
+		"/D/leetuyen/GalleryOne.html",
+		"/D/HTML5/lesson2/index.php",
+		"/C/Users/std/Downloads/introduce.html",
+		"/C/Users/std/Downloads/stylist.css",
+		"/C/Users/std/Documents/gioithieu.html",
+		"/C/Users/std/Documents/gioithieu1.html",
+		"/C/Users/std/Documents/index.php",
+		"/C/Users/std/Documents/gioithieu.css",
+		"/C/Users/std/Documents/gioithieu.htm",
+		"/C/Users/std/Documents/tuyen5tuoi.html",
+		"/C/Users/std/Documents/Visual Studio 2015/information.html",
+		"/C/Users/std/Documents/Visual Studio 2015/css.css",
+		"/C/Users/std/Downloads/T5/src/t5/Test4.java",
+		"/C/Users/std/Downloads/T5/src/t5/Test3.java",
+		"/C/Users/std/Documents/NetBeansProjects/T7/src/language.properties",
+		"/C/Users/std/Downloads/T5/src/t5/StudentTest.java",
+		"/C/Users/std/Downloads/sqldata.txt",
+		"/C/Users/std/Downloads/T5/src/t5/Test2.java",
+		"/C/Users/std/Downloads/T5/src/t5/Test1.java",
+		"/C/Users/std/Downloads/T5/src/t5/Student.java",
+		"/C/Users/std/Documents/Visual Studio 2015/daotrang.html",
+		"/C/Users/std/Downloads/T5/src/t5/IAction.java",
+		"/C/Users/std/Documents/NetBeansProjects/T7/src/lan_diep_zh_CN.properties",
+		"/C/Users/std/Documents/NetBeansProjects/T7/src/lan_diep_vi_VN.properties",
+		"/C/Users/std/Documents/NetBeansProjects/T7/src/langugale.properties",
+		"/C/Users/std/Documents/NetBeansProjects/T7/src/lan_diep.properties"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Atended.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
