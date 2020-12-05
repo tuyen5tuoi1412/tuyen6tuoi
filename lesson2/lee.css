@@ -1,0 +1,56 @@
+body{
+	width: 1000px;
+	margin:0px auto;
+	padding: 0px; 
+}
+
+.header .img{
+	float: left;
+}	
+.header .text .name{
+	text-align: center;
+	font-family: Arial;
+	color: #6297BC;
+
+}
+
+.header .text .address{
+	color: #666666;
+	font-weight:bold;
+	font-family:tahoma;
+	font-size:13px;
+	text-align: center;
+	padding-right: 38px;
+}
+.menu #a1{
+	padding-left: 10px;
+
+}
+.menu #a2{
+	padding-left: 10px;
+
+}
+.menu #a3{
+	padding-left: 10px;
+}
+
+.menu{
+	clear: left;
+	padding-top: 30px;
+	font-size: 30px;
+}
+
+.content2{
+	font-size: 35px;
+}
+
+.content3{
+	font-size: 35px;
+}
+
+.content4{
+	font-size: 35px;
+}
+.content{
+	font-size: 35px;
+}
