@@ -1,0 +1,99 @@
+body{
+	background-color: rgb(255,255,240);
+}
+
+textarea{
+	scrollbar-3dlight-color: #C0C0C0;
+	scroll-shadow-color:silver;
+	scroll-arrow-color:black;
+	scroll-face-color:gray;
+	width: 90%;
+}
+
+.imgHelp{
+	cursor: pointer;
+	color: blue;
+	background-color: #DDFFEE;
+	right: 25%;
+	position: absolute;
+
+
+}
+
+.EmailEditor{
+	background-color: #FFFFDD;
+	border: 1px solid grey;
+
+
+}
+
+#main{
+	width: 400px;
+	background-color: #DDFFEE;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0px auto;
+
+
+}
+
+#help{
+	width: 500px;
+	height: 420px;
+	top:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #cfc;
+	border: 2px solid #E4E7E7;
+	color: #303030;
+	margin: 0px auto;
+
+}
+
+.Close{
+	text-align: right;
+	color: blue;
+	cursor: hand;
+
+}
+
+ul{
+	list-style-image: url('photos/bullet.jpg');
+	list-style-type: square;
+	list-style-position: inside;
+
+}
+.row{
+	display:flex;
+	width: 100%
+}
+
+input{
+	width: 90%;
+}
+
+.col-md-4{
+	float:left;
+	text-align:right;
+	padding-right: 10px;
+	margin-bottom: 15px;
+	width: 33.33%
+
+}
+
+.col-md-8{
+	float:left;
+	padding-right: 10px;
+	width:66.67%
+}
+
+button{
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+button a{
+	color: black;
+	text-decoration: none;
+}

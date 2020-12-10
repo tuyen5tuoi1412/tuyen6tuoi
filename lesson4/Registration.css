@@ -1,0 +1,36 @@
+.row{
+	display: flex;
+	width: 100%
+}
+
+.lee{
+	float: left;
+	margin-bottom: 15px;
+	width: 33.33%
+
+
+}
+.lee2{
+	float: left;
+	padding-right:60%;
+	width: 66.67%
+
+}
+.gender{
+	float: left;
+	padding-bottom: 5px;
+}
+
+.tuyen1{
+	text-align: left;
+	padding-left: 135px;
+	float: right;
+}
+.tuyen2{
+	float: right;
+	padding-left: 45px;
+}
+button a{
+	text-decoration: none;
+	color: black;
+}
