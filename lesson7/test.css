@@ -1,0 +1,93 @@
+.main{
+    border: 1px solid #4970a3;
+    border-radius: 5px;
+    width: 800px;
+    height: 472px;
+    display: block;
+}
+.top{
+    background-color: #4970a3;
+    width: 99.4%;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-bottom: 16px;
+}
+.Product_Name{
+    font-weight: bold; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#name{
+    width: 706px;
+    height: 22px;
+    background-color:#f7f69e;
+    border: 1px solid grey;
+}
+
+#nsx{
+    width: 712px;
+    height: 29px;
+    border: 1px solid grey;
+}
+#fm_price{    
+    width: 706px;
+    height: 22px;
+    border: 1px solid grey;
+}
+#fm_quantity{
+    width: 706px;
+    height: 22px;
+    border: 1px solid grey;
+}
+#fm_sum{
+    width: 706px;
+    height: 22px;
+    border: 1px solid grey;background-color: rgb(241, 232, 232);
+}
+#select1{
+    width: 712px;
+    height: 29px;
+    border: 1px solid grey;
+}
+.one1{
+    display: flex;
+}
+#btn_register{
+    border: 1px solid rgb(91, 202, 118);
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+    background-color: rgb(91, 202, 118);
+    margin-right: 8px;
+    cursor: pointer;
+}
+.reset1{
+    border: 1px solid rgb(235, 174, 84);
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+    background-color: rgb(235, 174, 84);
+    cursor: pointer;
+}
+#showdata{
+    border: 1px solid rgb(244, 76, 71);
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+    background-color: rgb(244, 76, 71);
+    cursor: pointer;
+    margin-left: 438px;
+}
+.cap2{
+    background-color: #4970a3;
+    color: white;
+    height: 30px;
+    padding-top: 8px;
+}
+

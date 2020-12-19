@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="quanlysinhvien.css">
+	<title>Quan Li SInh Vien</title>
+</head>
+<body>
+	<table border="1" cellpadding="10" cellspacing="0" >
+		<thead>
+			<h1 class="one">Managerment Product</h1>
+			<tr>
+				<th>STT</th>
+				<th>Ten</th>
+				<th>Tuoi</th>
+				<th>Dia Chi</th>
+				<th>Email</th>
+				<th>SDT</th>
+			</tr>
+		</thead>
+		<tbody>
+	<script type="text/javascript">
+		var studentsList=[]
+
+		for (var i =0; i < 20; i++) {
+			std={
+				'fullname':'tuyen'+i,
+				'age':i,
+				'address': 'HN'+i,
+				'email':'lee'+i+'@gmail.com',
+				'phoneNumber':'123'+i
+
+			};
+			studentsList.push(std)
+		}
+	for (var i = 0; i < studentsList.length; i++) {
+		document.writeln(`<tr>
+							<td>${i+1}</td>
+							<td>${studentsList[i].fullname}</td>
+							<td>${studentsList[i].age}</td>
+							<td>${studentsList[i].address}</td>
+							<td>${studentsList[i].email}</td>
+							<td>${studentsList[i].phoneNumber}</td>
+							</tr>`)
+
+	}
+			
+
+		
+	</script>
+		</tbody>
+		
+	</table>
+</body>
+</html>

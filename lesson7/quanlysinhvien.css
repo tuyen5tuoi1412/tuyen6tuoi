@@ -1,0 +1,20 @@
+body{
+	padding: 0px;
+	margin: 0px auto;
+	width: 100%;
+}
+table{
+	text-align: center;
+	width: 80%;
+	margin: 0px auto;
+	border: 1px solid #0366fc;
+
+}
+.one {
+	padding-left: 0%;
+	border: 1px solid grey;
+	width: 80%;
+	margin: 0px auto;
+	background-color:#0366fc;
+	color: #FFF;
+}
