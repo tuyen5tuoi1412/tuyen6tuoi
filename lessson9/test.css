@@ -1,0 +1,46 @@
+body{
+	width: 100%;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.title{
+	width: 500px;
+	height: 250px;
+	background-color: #FFFFCC;
+	margin: 0px auto;
+}
+.title h2{
+	font-family: Arial;
+	color: #0000CC;
+	padding-left: 20px;
+}
+.content{
+	display: block;
+	margin: 5px auto;
+	display: flex;
+}
+.content form{
+	padding-top:65px;
+	padding-left: 30px;
+	margin: 5px auto;
+
+}
+.content form label{
+	color: #000066;
+	font-family: Arial;
+}
+.content form input{
+	margin: 5px;
+	width: 200px;
+}
+.content form input#abc{
+	margin-left: 10px;
+}
+.content form button{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.content form .button{
+	margin-left: 70px;
+}

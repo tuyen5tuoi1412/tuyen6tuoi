@@ -1,0 +1,19 @@
+body{
+	width: 100%;
+	margin: 0px auto ;
+	padding: 0px;
+	text-align: center;
+}
+.title{
+	display: flex;
+}
+.main{
+	margin: 0px auto;
+}
+.button{
+	margin-left: 50px;
+	margin: 5px;
+}
+.button button{
+	font-size: 20px;
+}
